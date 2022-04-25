@@ -5,7 +5,7 @@ Sariska's implementation of Google's Unity Jar Resolver
 
 1. Clone this repo into local development environment -> git clone https://github.com/SariskaIO/Sariska-Unity-Jar-Resolver.git
 2. In your unity project, go to Assets -> Import Package -> Custom Package
-3. Select "external-dependency-manager-1.2.169.unitypackage" from the clones repo and import all
+3. Select "external-dependency-manager-1.2.169.unitypackage" from the cloned repo and import all
 
 ## Note:
   This is an implementation of EDMU4 particularly for Sariska Media Services, for full source code, please refer to https://github.com/googlesamples/unity-jar-resolver
